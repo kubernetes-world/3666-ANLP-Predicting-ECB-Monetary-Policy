@@ -16,7 +16,7 @@ Use case examples:
 Files contain multiple notebooks of exploratory data analysis,various models trained and tested, as well as a presentation deck that summarizes the project and findings
 
 Models:
-Logistic regression
-Tree search
-LSTM with SMOTE
+Logistic regression,
+Tree search,
+LSTM with SMOTE,
 BERT (this notebook contains EDA)
