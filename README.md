@@ -1,4 +1,4 @@
-Summary of the project:
+# Summary of the project:
 
 Objective: Create a model to predict the direction on monetary policy changes based on European Central Bank (ECB) press releases and speeches. ECB generally meets every 6 weeks for monetary policy decisions
 
@@ -14,8 +14,3 @@ Use case examples:
 	•	Sovereign debt analysis and FX/currency trading and hedging
 
 Files contain multiple notebooks of the various models trained and tested, as well as a presentation deck that summarizes the project and findings
-
-
-
-
-# Links
