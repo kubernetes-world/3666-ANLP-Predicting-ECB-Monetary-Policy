@@ -1,4 +1,4 @@
-# Summary of the project:
+## Summary of the project:
 
 Objective: Create a model to predict the direction on monetary policy changes based on European Central Bank (ECB) press releases and speeches. ECB generally meets every 6 weeks for monetary policy decisions
 
@@ -17,6 +17,6 @@ Files contain multiple notebooks of exploratory data analysis,various models tra
 
 Models:
 Logistic regression,
-Tree search,
+Treebased models,
 LSTM with SMOTE,
 BERT (this notebook contains EDA)
