@@ -13,4 +13,10 @@ Use case examples:
 	•	Corporate treasury management (eg. lower borrowing costs)
 	•	Sovereign debt analysis and FX/currency trading and hedging
 
-Files contain multiple notebooks of the various models trained and tested, as well as a presentation deck that summarizes the project and findings
+Files contain multiple notebooks of exploratory data analysis,various models trained and tested, as well as a presentation deck that summarizes the project and findings
+
+Models:
+Logistic regression
+Tree search
+LSTM with SMOTE
+BERT (this notebook contains EDA)
